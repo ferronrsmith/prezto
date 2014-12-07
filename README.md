@@ -19,9 +19,9 @@ version is **4.3.11**.
 
 02. Clone the repository:
 
-    ```console
-    git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
-    ```
+     ```console
+     git clone --recursive https://github.com/ferronrsmith/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+     ```
 
     <details>
       <summary><em>Optional: Installing in <code>$XDG_CONFIG_HOME</code></em></summary>
@@ -29,6 +29,7 @@ version is **4.3.11**.
       Optionally, if you already have `$XDG_CONFIG_HOME` configured (usually as
       _`$HOME/.config`_ by default) and intend to install Prezto under
       _`$XDG_CONFIG_HOME/zsh`_ instead, you can clone the repository there and
+     done
       configure `$ZDOTDIR` separately if not already configured.
 
       - Clone the repository:
