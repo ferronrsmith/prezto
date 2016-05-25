@@ -19,6 +19,12 @@
 [submodule "modules/prompt/external/pure"]
 	path = modules/prompt/external/pure
 	url = https://github.com/sindresorhus/pure.git
+[submodule "modules/npm/external"]
+	path = modules/npm/external
+	url = https://github.com/lukechilds/zsh-better-npm-completion.git
+[submodule "modules/nvm/external"]
+	path = modules/nvm/external
+	url = https://github.com/lukechilds/zsh-nvm.git
 [submodule "modules/fasd/external"]
 	path = modules/fasd/external
 	url = https://github.com/clvv/fasd.git
